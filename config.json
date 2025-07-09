@@ -1,0 +1,10 @@
+{
+  "welcome_channel_name": "🌸・welcome",
+  "welcome_background_image": "welcome_background.png",
+  "font_path": "Vazirmatn-Medium",
+  "avatar_size": [180, 180],
+  "avatar_position": [100, 100],
+  "font_size": 55,
+  "text_position": [300, 150],
+  "text_color": [255, 255, 255]
+}
